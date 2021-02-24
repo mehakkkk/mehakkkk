@@ -1,8 +1,6 @@
 
-<img src="https://github.com/mehakkkk/mehakkkk/blob/main/love%20and%20joy%20(1).gif" width="700">
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/mehakkkk/mehakkkk/blob/main/love%20and%20joy%20(1).gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -43,11 +41,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</td>
+</tr></table>  
 
 <br/>  
 
@@ -73,8 +68,6 @@
 <br/>  
 
 
-## Github Stats  
-  
 
 <br/>  
 
