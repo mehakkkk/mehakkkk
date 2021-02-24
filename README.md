@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](loveandjoy(1).gif)
+<img src="https://github.com/mehakkkk/mehakkkk/blob/main/love%20and%20joy%20(1).gif">
 
 <!--
 **mehakkkk/mehakkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
