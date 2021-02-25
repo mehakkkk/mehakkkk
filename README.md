@@ -93,7 +93,7 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehakkkk&show_icons=true&theme=tokyonight)
 
 <!--
 **mehakkkk/mehakkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
