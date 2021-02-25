@@ -93,7 +93,9 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehakkkk&show_icons=true&theme=tokyonight) &nbsp;&nbsp;
+##My Github Stats ⭐
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehakkkk&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehakkkk&theme=tokyonight)
 
 
