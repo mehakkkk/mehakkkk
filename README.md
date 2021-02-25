@@ -92,6 +92,7 @@
 
 
 <br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehakkkk&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehakkkk&theme=tokyonight)
 
