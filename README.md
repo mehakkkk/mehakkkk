@@ -74,7 +74,7 @@
 
 ## Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [SignIn/SignUp using Angular Application (Facebook)](https://mehakgupta160.medium.com/signin-signup-using-angular-application-facebook-c742f156f92d?source=rss-90faf0cdfb73------2)
+- [SignIn/SignUp using Angular Application &lpar;Facebook&rpar;](https://mehakgupta160.medium.com/signin-signup-using-angular-application-facebook-c742f156f92d?source=rss-90faf0cdfb73------2)
 - [Simple Linear Regression](https://mehakgupta160.medium.com/simple-linear-regression-9c252f286f?source=rss-90faf0cdfb73------2)
 <!-- BLOG-POST-LIST:END -->
 <br/>  
