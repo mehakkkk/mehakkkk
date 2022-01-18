@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Mehak, a computer science undergrad and a web developer 👨‍💻 </div>  
+### <div align="center">I'm Mehak, a computer science undergrad and a software developer 👨‍💻 </div>  
   
 
 <br/>  
@@ -91,10 +91,10 @@
 <br />
 
 ## My Github Stats ⭐
+![](https://komarev.com/ghpvc/?username=mehakkkk)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehakkkk&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehakkkk&theme=tokyonight)
-
 
 
 <!--
